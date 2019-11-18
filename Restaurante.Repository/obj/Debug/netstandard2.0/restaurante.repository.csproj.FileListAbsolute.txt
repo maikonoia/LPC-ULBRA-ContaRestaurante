@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\bin\Debug\netstandard2.0\Restaurante.Repository.deps.json
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\bin\Debug\netstandard2.0\Restaurante.Repository.dll
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\bin\Debug\netstandard2.0\Restaurante.Repository.pdb
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\bin\Debug\netstandard2.0\Restaurante.Domain.dll
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\bin\Debug\netstandard2.0\Restaurante.Domain.pdb
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\obj\Debug\netstandard2.0\Restaurante.Repository.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\obj\Debug\netstandard2.0\Restaurante.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\obj\Debug\netstandard2.0\Restaurante.Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\obj\Debug\netstandard2.0\Restaurante.Repository.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\obj\Debug\netstandard2.0\Restaurante.Repository.csproj.CopyComplete
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\obj\Debug\netstandard2.0\Restaurante.Repository.dll
+C:\Users\DELL\Desktop\Ulbra\Linguagem Comercial I\Restaurante\Restaurante.Repository\obj\Debug\netstandard2.0\Restaurante.Repository.pdb
